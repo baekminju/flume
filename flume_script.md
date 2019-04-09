@@ -48,7 +48,7 @@ flume-ng agent \
 
 ```
 
-#[backup] Collecting Web Server Logs with Apache Flume
+# [backup] Collecting Web Server Logs with Apache Flume
 ## 1. Create an HDFS Directory for Flume-Ingested Data
 
 ```
