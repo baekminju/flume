@@ -1,5 +1,5 @@
-#Create a new folder and name it Flume in your data_ingest repository in github.
-```
+# Create a new folder and name it Flume in your data_ingest repository in github.
+
 ## 1. Create a new flume configuration file with the following:
 
 ```
@@ -44,8 +44,6 @@ flume-ng agent \
 --conf /etc/flume-ng/conf \
 --conf-file $DEVSH/exercises/flume/Netcat.conf \
 --name agent1 -Dflume.root.logger=INFO,console
-
-
 
 
 ```
